@@ -43,7 +43,6 @@ def check_win_con(board):
     #board =np.int(board)
     #print("testing function:", board_check_int)
 
-
 def main():
     player_1, player_2 = get_player_name()
     print("Player_1 Name is: ",player_1,"Player_2 Name is: ", player_2)
