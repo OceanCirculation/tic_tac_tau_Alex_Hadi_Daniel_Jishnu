@@ -17,7 +17,6 @@ def get_player_name():
         else:
            player_2_name = permitted_name[0]  
 
-        #print("Player_1 Name is: ",player_1_name,"Player_2 Name is: ", player_2_name)
         return player_1_name, player_2_name 
     else:
         print("Wrong!! Only X & O are accepted")
